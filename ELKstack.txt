@@ -1,0 +1,1 @@
+ELK Stack: ELK Stack (Elasticsearch, Logstash, and Kibana) is a set of tools used for log management and analysis. Elasticsearch is a search and analytics engine, Logstash is a data processing pipeline, and Kibana is a visualization tool.

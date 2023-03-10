@@ -1,0 +1,1 @@
+Nagios: Nagios is an open-source monitoring tool that is used for system and network monitoring. It provides real-time alerts and notifications for issues and can be integrated with other tools for automated remediation.

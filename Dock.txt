@@ -1,0 +1,1 @@
+Docker: Docker is a containerization platform that allows for the creation and deployment of applications within containers. This enables applications to run consistently across different environments.
